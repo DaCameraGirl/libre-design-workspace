@@ -1,0 +1,43 @@
+# GIMP
+*.xcf~
+*.xcf.bz2~
+
+# Krita
+*.kra~
+*.krita~
+
+# Blender
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+*.blend7
+*.blend8
+*.blend9
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Render outputs (keep source files only)
+/blender/renders/
+/blender/cache/
+
+# Export folder (for final exports, not WIP)
+# /shared/exports/ - uncomment to ignore exports
