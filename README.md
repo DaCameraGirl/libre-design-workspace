@@ -1,3 +1,38 @@
+<p align="center">
+  <img src="docs/readme-banner.svg" alt="Libre Design Workspace — Open-source design workspace for GIMP, Inkscape, Krita, Blender, KiCAD, and electronics design tools." width="720" />
+</p>
+
+<p align="center">
+  <strong>Open-source design workspace for GIMP, Inkscape, Krita, Blender, KiCAD, and electronics design tools.</strong>
+</p>
+
+<p align="center">
+  <a href="https://dacameragirl.github.io/libre-design-workspace/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-33d69f?style=for-the-badge&logo=github&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/DaCameraGirl/libre-design-workspace"><img src="https://img.shields.io/badge/Code-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/deploy-GitHub Pages-000000?style=flat-square&logo=github&logoColor=white" alt="deploy-GitHub Pages" />
+  <img src="https://img.shields.io/badge/tools-GIMP + Blender-ff5fa2?style=flat-square" alt="tools-GIMP + Blender" />
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-94%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-6%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+</p>
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIMP-workflows-ff5fa2?style=flat-square" alt="GIMP-workflows" />
+  <img src="https://img.shields.io/badge/KiCAD-electronics-ffb800?style=flat-square" alt="KiCAD-electronics" />
+</p>
+
+<p align="center">
+  Built by <strong>Angela Hudson</strong> · <a href="https://github.com/DaCameraGirl">DaCameraGirl</a>
+</p>
 # 🔬 Circuit Notebook
 
 **Professional electronics lab notebook for makers, students, and hardware engineers**
@@ -8,7 +43,9 @@ A modern desktop application for managing electronics projects, from schematic c
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
 
-## ✨ Features
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%E2%9C%A8%20Features&fontSize=22&fontColor=e6edf3" width="720" alt="✨ Features" /></p>
+
 
 ### Project Management
 - 📁 Organize multiple electronics projects in one place
@@ -40,7 +77,9 @@ A modern desktop application for managing electronics projects, from schematic c
 - 📄 Generate PDF reports
 - 🌐 Export to HTML for sharing
 
-## 🚀 Quick Start
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9A%80%20Quick%20Start&fontSize=22&fontColor=e6edf3" width="720" alt="🚀 Quick Start" /></p>
+
 
 ### Installation
 
@@ -72,7 +111,9 @@ chmod +x Circuit-Notebook-1.0.0.AppImage
 4. Link KiCAD files (optional)
 5. Start documenting!
 
-## 🛠️ Built With
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Built%20With&fontSize=22&fontColor=e6edf3" width="720" alt="🛠️ Built With" /></p>
+
 
 **Core Technologies:**
 - Electron - Desktop app framework
@@ -92,7 +133,9 @@ chmod +x Circuit-Notebook-1.0.0.AppImage
 - Ngspice - Circuit simulation
 - Qucs-S - RF simulation
 
-## 📸 Screenshots
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%93%B8%20Screenshots&fontSize=22&fontColor=e6edf3" width="720" alt="📸 Screenshots" /></p>
+
 
 ### Main Interface
 Clean, dark-themed interface designed for long lab sessions.
@@ -103,7 +146,9 @@ Organize components, schematics, and documentation in one place.
 ### Simulation Results
 Visualize circuit behavior with integrated plotting.
 
-## 🎯 Use Cases
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8E%AF%20Use%20Cases&fontSize=22&fontColor=e6edf3" width="720" alt="🎯 Use Cases" /></p>
+
 
 **For Students:**
 - Document lab experiments
@@ -123,7 +168,9 @@ Visualize circuit behavior with integrated plotting.
 - Manufacturing handoff
 - Compliance documentation
 
-## 🤝 Contributing
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%A4%9D%20Contributing&fontSize=22&fontColor=e6edf3" width="720" alt="🤝 Contributing" /></p>
+
 
 We welcome contributions! Areas we need help:
 
@@ -133,11 +180,15 @@ We welcome contributions! Areas we need help:
 - Documentation
 - Bug reports and feature requests
 
-## 📄 License
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%93%84%20License&fontSize=22&fontColor=e6edf3" width="720" alt="📄 License" /></p>
+
 
 MIT License - see LICENSE file for details
 
-## 🙏 Acknowledgments
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%99%8F%20Acknowledgments&fontSize=22&fontColor=e6edf3" width="720" alt="🙏 Acknowledgments" /></p>
+
 
 Built with open-source tools, for the open-source hardware community.
 
