@@ -44,7 +44,7 @@ A modern desktop application for managing electronics projects, from schematic c
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%E2%9C%A8%20Features&fontSize=22&fontColor=e6edf3" width="720" alt="✨ Features" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%E2%9C%A8%20Features&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="✨ Features" /></p>
 
 
 ### Project Management
@@ -78,7 +78,7 @@ A modern desktop application for managing electronics projects, from schematic c
 - 🌐 Export to HTML for sharing
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9A%80%20Quick%20Start&fontSize=22&fontColor=e6edf3" width="720" alt="🚀 Quick Start" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%9A%80%20Quick%20Start&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🚀 Quick Start" /></p>
 
 
 ### Installation
@@ -112,7 +112,7 @@ chmod +x Circuit-Notebook-1.0.0.AppImage
 5. Start documenting!
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Built%20With&fontSize=22&fontColor=e6edf3" width="720" alt="🛠️ Built With" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Built%20With&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🛠️ Built With" /></p>
 
 
 **Core Technologies:**
@@ -134,7 +134,7 @@ chmod +x Circuit-Notebook-1.0.0.AppImage
 - Qucs-S - RF simulation
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%93%B8%20Screenshots&fontSize=22&fontColor=e6edf3" width="720" alt="📸 Screenshots" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%93%B8%20Screenshots&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="📸 Screenshots" /></p>
 
 
 ### Main Interface
@@ -147,7 +147,7 @@ Organize components, schematics, and documentation in one place.
 Visualize circuit behavior with integrated plotting.
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8E%AF%20Use%20Cases&fontSize=22&fontColor=e6edf3" width="720" alt="🎯 Use Cases" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%8E%AF%20Use%20Cases&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🎯 Use Cases" /></p>
 
 
 **For Students:**
@@ -169,7 +169,7 @@ Visualize circuit behavior with integrated plotting.
 - Compliance documentation
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%A4%9D%20Contributing&fontSize=22&fontColor=e6edf3" width="720" alt="🤝 Contributing" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%A4%9D%20Contributing&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🤝 Contributing" /></p>
 
 
 We welcome contributions! Areas we need help:
@@ -181,13 +181,13 @@ We welcome contributions! Areas we need help:
 - Bug reports and feature requests
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%93%84%20License&fontSize=22&fontColor=e6edf3" width="720" alt="📄 License" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%93%84%20License&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="📄 License" /></p>
 
 
 MIT License - see LICENSE file for details
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%99%8F%20Acknowledgments&fontSize=22&fontColor=e6edf3" width="720" alt="🙏 Acknowledgments" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%99%8F%20Acknowledgments&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🙏 Acknowledgments" /></p>
 
 
 Built with open-source tools, for the open-source hardware community.
